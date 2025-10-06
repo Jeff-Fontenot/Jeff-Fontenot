@@ -90,7 +90,7 @@ Production-style infrastructure for testing cloud-native architectures. Containe
 
 ## Stats
 
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff-Fontenot&show_icons=true&theme=dark)
 
 ---
 
