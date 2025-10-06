@@ -88,10 +88,6 @@ Production-style infrastructure for testing cloud-native architectures. Containe
 - 📧 Email: jeff@itodyssey.io
 - 📍 New Orleans, LA
 
-## Stats
-
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff-Fontenot&show_icons=true&theme=dark)
-
 ---
 
 *Open to opportunities in cloud engineering, DevOps, and federal contracting roles.*
