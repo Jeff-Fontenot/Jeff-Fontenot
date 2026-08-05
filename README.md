@@ -42,7 +42,7 @@ A tested disaster-recovery solution for a containerized Flask and PostgreSQL app
 
 ## What I'm Working on Now
 
-After completing my degree, I am building deeper hands-on proficiency with the tools used in modern DevOps and platform engineering. My current focus includes Linux and Bash automation, Git workflows, Docker, Terraform, CI/CD, and Kubernetes fundamentals. Additional projects and documentation will be added as that work progresses.
+After completing my degree requirements, I am building deeper hands-on proficiency with the tools used in modern DevOps and platform engineering. My current focus includes Linux and Bash automation, Git workflows, Docker, Terraform, CI/CD, and Kubernetes fundamentals. Additional projects and documentation will be added as that work progresses.
 
 ## Connect
 
