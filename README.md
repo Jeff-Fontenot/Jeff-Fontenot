@@ -2,7 +2,7 @@
 
 **Cloud-Focused IT Professional | Active Secret Clearance | AWS Certified**
 
-I support identity, messaging, endpoint, and network services within the Marine Corps' large-scale hybrid Microsoft enterprise environment. I recently completed a **B.S. in Cloud Computing** at Western Governors University and am transitioning toward cloud engineering, DevOps, and platform-focused roles.
+I support identity, messaging, endpoint, and network services within the Marine Corps' large-scale hybrid Microsoft enterprise environment. I recently completed all requirements for a B.S. in Cloud Computing at Western Governors University and have submitted my graduation application; formal degree conferral is pending. I am transitioning toward cloud engineering, DevOps, and platform-focused roles.
 
 My current work combines enterprise troubleshooting with hands-on infrastructure projects using AWS, Terraform, Linux, Docker Compose, PowerShell, Prometheus, and Grafana.
 
@@ -38,7 +38,7 @@ A tested disaster-recovery solution for a containerized Flask and PostgreSQL app
 * Microsoft 365 Certified: Fundamentals
 * LPI Linux Essentials
 * PCEP: Python Certified Entry-Level Programmer
-* **B.S. Cloud Computing**, Western Governors University, 2026
+* B.S. Cloud Computing, Western Governors University — degree requirements completed; conferral pending
 
 ## What I'm Working on Now
 
