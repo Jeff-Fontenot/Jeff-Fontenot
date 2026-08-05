@@ -6,7 +6,7 @@ I support identity, messaging, endpoint, and network services within the Marine 
 
 My current work combines enterprise troubleshooting with hands-on infrastructure projects using AWS, Terraform, Linux, Docker Compose, PowerShell, Prometheus, and Grafana.
 
-## Featured Projects
+## Featured Project
 
 ### [Hybrid Cloud Disaster Recovery](https://github.com/Jeff-Fontenot/d342-hybrid-cloud-disaster-recovery)
 
@@ -18,17 +18,6 @@ A tested disaster-recovery solution for a containerized Flask and PostgreSQL app
 * Validated an RPO of approximately one hour and an RTO of 3 minutes 55 seconds
 
 **Technologies:** AWS, Terraform, EC2, S3, IAM, Linux, Bash, Docker Compose, PostgreSQL
-
-### [Multi-VPC Integration Lab](https://github.com/Jeff-Fontenot/Multi-VPC-Integration)
-
-A Terraform-based networking lab exploring secure connectivity between isolated AWS environments.
-
-* Configured cross-region VPC peering and routing
-* Implemented public and private subnet segmentation
-* Applied security groups, network ACLs, and VPC Flow Logs
-* Documented a conceptual path for adding third-party traffic inspection
-
-**Technologies:** AWS, Terraform, VPC, Route Tables, Security Groups, Network ACLs, CloudWatch
 
 ## Technical Focus
 
