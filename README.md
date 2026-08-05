@@ -47,7 +47,6 @@ After completing my degree, I am building deeper hands-on proficiency with the t
 ## Connect
 
 * [LinkedIn](https://www.linkedin.com/in/jeff-fontenot)
-* [Portfolio](https://jeff.itodyssey.io)
 * [Email](mailto:jeff@itodyssey.io)
 
 ---
